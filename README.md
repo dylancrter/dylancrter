@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dylancrter
 - 👀 I’m interested in programming and math
 - 🌱 I’m currently a CS student at UGA
-- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: dylanc.rter@gmail.com
 
 <!---
