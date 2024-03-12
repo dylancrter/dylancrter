@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dylancrter
-- 👀 I’m interested in programming and math
+- 👀 I’m interested in computer science
 - 🌱 I’m currently a CS student at UGA
 - 📫 How to reach me: dylanc.rter@gmail.com
 
