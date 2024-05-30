@@ -1,4 +1,4 @@
-#Hello,
+# Hello,
 
 I'm Dylan and I'm currently an undergrad computer science student. I have some experience with backend development in school and work. I am a part of the AI Double Dawgs program at the University of Georgia and am set to graduate in the Spring of 2025. Some of my more prominent projects are listed below:
 
