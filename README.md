@@ -1,6 +1,6 @@
 ### Hello,
 
-I'm Dylan and I'm currently an undergrad computer science student. I have some experience with backend development in school and work. I am a part of the AI Double Dawgs program at the University of Georgia and am set to graduate in the Spring of 2025. Some of my more prominent projects are listed below:
+I'm Dylan and I'm currently an undergrad computer science student. I have some experience with backend development in school and work. I'm pursuing a BS Computer Science / MS Artificial Intelligence degree at my university. Some of my more prominent projects are listed below:
 
 - E Cinema Booking System: Created a comprehensive booking software for cinema companies. Worked primarily on backend with Java + SpringBoot and MySQL for the database.
 - GoodGreek: Hacked up a pretty basic philanthropy platform for UGA Greek Life Organizations at UGAHacks9. Same tech stack as E Cinema.
