@@ -10,7 +10,7 @@ my name is dylan and I'm currently an undergrad computer science student. I have
 I'm also currently working on:
 
 - deditor: my own text editor I'm implementing in C. The goal is for it to be as light-weight as possible.
-- langtex: a llm wrapper for converting natural language to latex.
+- LangTeX: a command line tool for converting natural language to LaTeX using context-free grammars.
 - from the tensor: a 9-week ML course where I'll be learning the basics of ml and implementing papers.
 
 feel free to email me at dylanc.rter@gmail.com or contact me through the links on my portfolio site!
