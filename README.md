@@ -1,6 +1,6 @@
 ### hello,
 
-my name is dylan and I'm currently an undergrad computer science student. I have some experience with backend development in school and work. I'm pursuing BS Computer Science & MS Artificial Intelligence degrees at my university. Some of my completed projects are listed below:
+my name is dylan and I'm currently an undergrad computer science student. I have some experience with backend development in school and work. Some of my completed projects are listed below:
 
 - e cinema booking system: web app for cinema companies to manage their showings, users, admins, payments, etc. 
 - goodgreek: web app built for greek orgs to post philanthropy events for users to see and interact with.
