@@ -4,12 +4,11 @@ my name is dylan and I'm currently an undergrad computer science student. I have
 
 - e cinema booking system: web app for cinema companies to manage their showings, users, admins, payments, etc. 
 - goodgreek: web app built for greek orgs to post philanthropy events for users to see and interact with.
-- cfb javafx app: I like college football so I created an app that displays player bio, statistics, and images.
-- dylancrter.github.io: basic portfolio site linked under my pfp.
+- github activity cli: a cli for displaying github user activity
 
 I'm also currently working on:
 
-- deditor: my own text editor I'm implementing in C. The goal is for it to be as light-weight as possible.
+- roadmap.sh
   
 feel free to email me at dylanc.rter@gmail.com or contact me through the links on my portfolio site!
 
