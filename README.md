@@ -9,7 +9,7 @@ my name is dylan and I'm currently an undergrad computer science student. I have
 I'm also currently working on:
 
 - roadmap.sh
-- Basic Mathematics for Data Mining: a website to help students/professionals brush up on their math knowledge
+- bmfdm-web: a website to help students/professionals brush up on the math required for data mining
   
 feel free to email me at dylanc.rter@gmail.com or contact me through the links on my portfolio site!
 
