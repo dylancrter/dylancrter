@@ -1,6 +1,6 @@
 ### hello,
 
-my name is dylan and I'm currently an undergrad computer science student. My goal is to become a skilled programmer who can learn new things quickly.
+My name is dylan and I'm currently an undergrad computer science student. My goal is to become a skilled programmer who can create cool stuff.
   
 feel free to email me at dylanc.rter@gmail.com
 <!---
